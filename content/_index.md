@@ -2,7 +2,10 @@
 title: Home
 sections:
   - component: hero_block.html
-    content: that it doesn't even need a subtitle.
+    content: |-
+      that it doesn't even need a subtitle.
+
+      <a href="#" class="button">Watch Showreel</a>
     section_id: hero
     title: Let's build something so extraordinary
     type: heroblock
