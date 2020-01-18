@@ -2,9 +2,9 @@
 title: Home
 sections:
   - component: hero_block.html
-    content: That it doesn't even need a subtitle.
+    content: that it doesn't even need a subtitle.
     section_id: hero
-    title: 'Let''s build something so <span style="color:red">extraordinary</span>.'
+    title: Let's build something so extraordinary
     type: heroblock
   - component: portfolio_block.html
     layout_style: mosaic
