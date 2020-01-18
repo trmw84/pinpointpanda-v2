@@ -10,7 +10,7 @@ sections:
     layout_style: mosaic
     num_projects_displayed: 6
     section_id: latest-projects
-    subtitle: 'Projects speak louder than prose (unless you''re a copywriter, obvs).'
+    subtitle: 'Projects speak louder than prose (unless you''re a copywriter, obviously).'
     title: The Good Stuff
     type: portfolioblock
     view_all_text: More Goodness
