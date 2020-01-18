@@ -2,9 +2,9 @@
 title: Home
 sections:
   - component: hero_block.html
-    content: It's time to truly harness the power of technology in your marketing.
+    content: That it doesn't even need a subtitle.
     section_id: hero
-    title: Let's build something extraordinary.
+    title: Let's build something so extraordinary.
     type: heroblock
   - component: portfolio_block.html
     layout_style: mosaic
@@ -40,8 +40,8 @@ sections:
           the good stuff and the fun stuff and less of the bad stuff and the
           dull stuff. Get robots to do that. They really don't mind.
         title: Process Automation
-    subtitle: This is what happens here. Officially.
-    title: Say What?
+    subtitle: This is what happens here. Officially. Unofficially? 24/7 Slack GIFs.
+    title: The Doing
     type: servicesblock
   - component: testimonials_block.html
     section_id: testimonials
@@ -58,18 +58,20 @@ sections:
     title: Words From Others
     type: testimonialsblock
   - actions:
-      - label: View Blog
+      - label: More Words
         url: blog/index.html
     component: posts_block.html
     num_posts_displayed: 2
     section_id: latest-posts
-    subtitle: An optional subtitle of the section
-    title: Latest from the Blog
+    subtitle: This is where the articles live.
+    title: Words From Brainwaves
     type: postsblock
   - component: contact_block.html
     section_id: contact
-    subtitle: An optional subtitle of the section
-    title: Contact Us
+    subtitle: >-
+      Want to chat? Collaborate? Partner? Other verb? Do that here. Or email
+      mike@pinpointpanda.com.
+    title: Say Hello
     type: contactblock
 menu:
   main:
