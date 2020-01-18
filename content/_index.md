@@ -4,7 +4,7 @@ sections:
   - component: hero_block.html
     content: That it doesn't even need a subtitle.
     section_id: hero
-    title: Let's build something so extraordinary.
+    title: 'Let''s build something so <span style="color:red">extraordinary</span>.'
     type: heroblock
   - component: portfolio_block.html
     layout_style: mosaic
@@ -29,16 +29,18 @@ sections:
           tech investments is its own investment.  Interested?
         title: Hubspot Optimisation
       - content: >-
-          New startup, starting anew, a little clueless, singing the marketing
-          blues? Or been around the block a few, in need of a tune up and a
-          'fresh ideas' brew? Not all marketing strategy has to rhyme, but it
-          does need love (and time. Sorry.)
+          Starting anew, a little clueless, singing the marketing blues? Or been
+          around the block a few, in need of a tune up or a 'fresh ideas' brew?
+          Not all marketing strategy has to rhyme, but it does need love (and
+          time. Sorry.) Get to where you need to be, quickly and
+          cost-effectively. Would you like to know more?
         title: Digital Marketing Strategy
       - content: >-
           Your time is your most precious asset, but you're probably wasting
           more of it than you realise. Or doing less than you could. Do more of
           the good stuff and the fun stuff and less of the bad stuff and the
-          dull stuff. Get robots to do that. They really don't mind.
+          dull stuff. Get robots to do that. They really don't mind. Is it time
+          to save some time?
         title: Process Automation
     subtitle: This is what happens here. Officially. Unofficially? 24/7 Slack GIFs.
     title: The Doing
