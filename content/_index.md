@@ -56,7 +56,7 @@ sections:
         content: At least he took the lorem ipsum out!
       - author: Jane Roe
         avatar: images/jane_roe.jpg
-        content: 'Although, we''re still clearly stock photos. C-'
+        content: 'Although, we''re still clearly stock photos.'
     title: Words From Others
     type: testimonialsblock
   - actions:
